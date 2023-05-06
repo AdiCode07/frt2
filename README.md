@@ -4,7 +4,7 @@ Hello I Created A Website Of KOVID.
 KOVID is a comprehensive platform that provides accurate and up-to-date information about COVID-19. Our platform aims to educate people about the pandemic and its impact on health and society, as well as provide resources and guidelines to help individuals and communities stay safe and healthy.
 
 ## Website Link :- https://salmon-ground-0b9ab3900.3.azurestaticapps.net
-## Youtube Link :- 
+## Youtube Link :- https://youtu.be/eCBLe4EIIWY
 ## Azure Technologies Used For Project :- Static Web Apps , Health Bot
 
 # 1. Home Page :- 
