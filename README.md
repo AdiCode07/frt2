@@ -8,7 +8,7 @@ KOVID is a comprehensive platform that provides accurate and up-to-date informat
 ## Azure Technologies Used For Project :- Static Web Apps , Health Bot
 
 # 1. Home Page :- 
-![screencapture-white-desert-04c3b5a10-3-azurestaticapps-net-index-html-2023-04-23-21_30_48](https://user-images.githubusercontent.com/90275944/233852577-b8694024-aa5b-48b3-af83-3a7b959b1e8b.png)
+![screencapture-adicode07-github-io-frt2-2023-05-06-09_44_05](https://user-images.githubusercontent.com/132263141/236599278-98bca182-fba8-451a-8ccc-39a6abdd67f6.png)
 
 # 2. About :- 
 ![screencapture-white-desert-04c3b5a10-3-azurestaticapps-net-about-html-2023-04-23-21_33_36](https://user-images.githubusercontent.com/90275944/233852597-76bd8c56-d64a-4d39-98c3-8a3d474121d1.png)
